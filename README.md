@@ -1,13 +1,13 @@
-# {project title} ✨
+# FM Transmitter Aux Broadcaster ✨
 
 ### Description
-{mini project description goes here...}
+A device that can broadcast the aux audio via fm transmitter at a bandwidth.
 
 *You are welcome to contribute to this repo. See the [**CONTRIBUTING.md**](./CONTRIBUTING.md) for more info*
 
 ### Contributers
-<a href="https://github.com/pattarai/mini-project-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pattarai/mini-project-template" />
+<a href="https://github.com/pattarai/fm-transmitter-aux-broadcaster/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pattarai/fm-transmitter-aux-broadcaster" />
 </a>
 
 
